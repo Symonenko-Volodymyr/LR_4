@@ -1,0 +1,32 @@
+{
+  "name": "NTU(DP)",
+  "faculties": [
+    {
+      "name": "Faculty of Computer Informatics",
+      "departments": [
+        {
+          "name": "Department of System Analysis",
+          "groups": [
+            {
+              "name": "Group 124-21-1",
+              "students": [
+                {
+                  "firstName": "Christopher",
+                  "lastName": "Robert",
+                  "middleName": "Evans",
+                  "gender": "MALE"
+                },
+                {
+                  "firstName": "Scarlett",
+                  "lastName": "Ingrid",
+                  "middleName": "Johansson",
+                  "gender": "FEMALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
